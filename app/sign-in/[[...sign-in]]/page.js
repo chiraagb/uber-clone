@@ -10,7 +10,7 @@ export default function Page() {
         height={1333}
         className="object-contain h-full w-full opacity-50"
       />
-      <div className="absolute top-10 left-10">
+      <div className="absolute top-20 left-10">
         <SignIn />;
       </div>
     </div>
